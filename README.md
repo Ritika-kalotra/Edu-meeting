@@ -7,8 +7,10 @@ To design and develop an intuitive and effective educational meeting website tha
 ## Key Features:
 
 ### User Profiles and Management:
-Custom Profiles: Create and manage detailed profiles for learners, educators, and administrators, including roles, contact information, and preferences.
-Role-Based Permissions: Define access levels and permissions for different user types to ensure appropriate access to features and content.
+##### Custom Profiles: 
+Create and manage detailed profiles for learners, educators, and administrators, including roles, contact information, and preferences.
+##### Role-Based Permissions:
+Define access levels and permissions for different user types to ensure appropriate access to features and content.
 ###  Scheduling and Event Management:
 
 Integrated Calendar: Provide a calendar for scheduling educational meetings, lectures, and workshops, with synchronization options for popular calendar apps.
