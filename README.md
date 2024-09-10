@@ -1,5 +1,12 @@
 ## Project Title: Edu-meeting
 
+### Project Details
+- Project Demo URL : http://4.240.115.192/Edu-meeting/
+
+- Github Repository URL : https://github.com/Ritika-kalotra/Edu-meeting.git
+
+- Google Drive URL : https://drive.google.com/file/d/1iv2Mge6i7DgC7Je7VN5wHJh6PLRiyjM-/view?usp=drive_link
+
 ## Problem Statement:
 
 To design and develop an intuitive and effective educational meeting website that facilitates seamless virtual interactions for learners and educators. The platform should support scheduling and hosting of various educational meetings, including lectures, workshops, and group study sessions. It must offer features for real-time communication, interactive content sharing, and collaborative tools. Additionally, the site should integrate functionalities for tracking attendance, providing feedback, and managing resources to enhance the learning experience and ensure that educational goals are met efficiently and effectively.
